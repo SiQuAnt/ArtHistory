@@ -1,4 +1,4 @@
-# 🏛️ ArtHistory — Виртуальный Музей Времени
+# 🏛️ ArtHistory — Виртуальный Музей
 
 **ArtHistory** — уникальный виртуальный музей, созданный на базе игрового движка **Unreal Engine 5**.  
 Здесь каждый посетитель погружается в живую атмосферу истории, исследуя тщательно воссозданные цифровые экспонаты и путешествуя через **порталы эпох** — врата во времени, открывающие доступ к культуре и быту разных исторических периодов.
@@ -23,16 +23,20 @@
 
 ## 🎬 Трейлер
 
-Оцените визуальную красоту и масштаб проекта в официальном видео-презентации:  
+[![Смотреть на YouTube](https://img.shields.io/badge/Смотреть_на-YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/R44rIJYtlNE)
 
-📺 [Смотреть трейлер ArtHistory на Rutube](https://rutube.ru/video/d39d11006686490bd10dd49435793d5c/)
+[![Смотреть на Rutube](https://img.shields.io/badge/Смотреть_на-Rutube-black?logo=rutube&style=for-the-badge)](https://rutube.ru/video/d39d11006686490bd10dd49435793d5c/)
 
-📺 [Смотреть трейлер ArtHistory на Youtube](https://youtu.be/R44rIJYtlNE)
 
 ---
 
+## 📦 Скачать проект
+
+[![Скачать ArtHistory](https://img.shields.io/badge/Скачать_проект-Google%20Drive-blue?logo=google-drive&style=for-the-badge)](https://drive.google.com/drive/folders/1uBslZT1SbNXMSn3w6p3_ruyIKFqE5dkf?usp=sharing)
+
+> 📁 Архив содержит демонстрационную версию проекта.
+
+---
 ## 🧰 Технологии
 
 - **Unreal Engine 5** — главный движок проекта, обеспечивающий фотореалистичную графику и динамическое освещение.
-
----
