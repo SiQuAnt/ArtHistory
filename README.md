@@ -26,6 +26,7 @@
 Оцените визуальную красоту и масштаб проекта в официальном видео-презентации:  
 
 📺 [Смотреть трейлер ArtHistory на Rutube](https://rutube.ru/video/d39d11006686490bd10dd49435793d5c/)
+📺 [Смотреть трейлер ArtHistory на Youtube](https://youtu.be/R44rIJYtlNE)
 
 ---
 
