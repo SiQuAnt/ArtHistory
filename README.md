@@ -20,6 +20,11 @@
   Построено на передовом Unreal Engine 5, обеспечивающем максимальную реалистичность и интерактивность.
 
 ---
+## 🎬 Трейлер Cinematic
+
+[![Смотреть на YouTube](https://img.shields.io/badge/Смотреть_на-YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/WG2oFhtUA8Y?si=QhMcGxlPcXoaNw06)
+
+[![Смотреть на Rutube](https://img.shields.io/badge/Смотреть_на-Rutube-black?logo=rutube&style=for-the-badge)](https://rutube.ru/video/e95f5efc215c10c6e5a0b85f17db402a/)
 
 ## 🎬 Трейлер
 
